@@ -1,1 +1,1 @@
-This project is inspired by older versions of Pytorch (Module), and includes the implementation of multi-class modules (Linear, Non-Linear), Auto-Encoders and Convolutions (Conv1D, Conv2D).
+Developed a modular deep learning framework inspired by PyTorch, implementing Multi-class Linear/Non-Linear layers, Auto-Encoders, and Convolutions (1D/2D) from scratch.
